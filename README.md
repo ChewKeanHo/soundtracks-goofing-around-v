@@ -1,19 +1,28 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Goofing Around V | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Ok. Let us expand the instrumental version for more options to select from.
+That way, it will not get too bored during video production deployment. The
+melody is great for the mood of deep into something.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #edm #trance #dance #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Goofing-Around-IV.mp3
+  Size: 16562176        Blocks: 32352      IO Block: 4096   regular file
+Device: 253,2   Inode: 40766697    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-11 12:43:34.530378539 +0800
+Modify: 2025-11-11 12:43:12.474266433 +0800
+Change: 2025-11-11 12:43:12.474266433 +0800
+ Birth: 2025-08-25 10:32:05.342911401 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-08-25
+On YouTube since : 2025-08-25
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=lM-_q_vF9NM)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +55,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Goofing Around V
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-goofing-around-v
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
